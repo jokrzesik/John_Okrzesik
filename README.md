@@ -1,7 +1,7 @@
 # John's Portfolio
 ## My Projects
 
-### [Airline Passenger Satisfaction](https://github.com/jokrzesik/Airline_Passenger_Satisfaction-SQL_Project)
+### [Airline Passenger Satisfaction]([https://github.com/jokrzesik/Airline_Passenger_Satisfaction-SQL_Project](https://jokrzesik.github.io/Airline_Passenger_Satisfaction-SQL_Project/))
 *SQL Project*
 
 ### [Pizza Place Sales](https://public.tableau.com/views/PizzaPlaceSales_16900347008620/PizzaPlaceSalesFor2015?:language=en-US&:display_count=n&:origin=viz_share_link)
