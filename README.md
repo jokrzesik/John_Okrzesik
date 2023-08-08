@@ -1,12 +1,14 @@
-<h1>Hi, I'm John! <br/><a href="https://www.linkedin.com/in/john-okrzesik/">Data Analyst</a>
+# John's Portfolio
+## My Projects
 
-<h2>👨‍💻 Projects:</h2>
+### [Airline Passenger Satisfaction](https://github.com/jokrzesik/Airline_Passenger_Satisfaction-SQL_Project)
+*SQL Project*
 
-- <b>Data Visualization Practice (Tableau)</b>
-  - [Pizza Place Sales in Tableau](https://public.tableau.com/views/PizzaPlaceSales_16900347008620/PizzaPlaceSalesFor2015?:language=en-US&:display_count=n&:origin=viz_share_link)
+### [Pizza Place Sales](https://public.tableau.com/views/PizzaPlaceSales_16900347008620/PizzaPlaceSalesFor2015?:language=en-US&:display_count=n&:origin=viz_share_link)
+*Tableau Project*
 
-<h2> 🤳 How to reach me:</h2>
+## How to reach me:
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="John's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/john-okrzesik
