@@ -9,7 +9,7 @@
 
 ## Other Projects
 
-### [Gloomhaven Modifier Deck]()
+### [Gloomhaven Modifier Deck](https://jokrzesik.github.io/Gloomhaven_Modifier_Deck/)
 *Python Project*
 
 ## How to reach me:
