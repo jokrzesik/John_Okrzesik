@@ -4,12 +4,12 @@
 ### [Airline Passenger Satisfaction](https://jokrzesik.github.io/Airline_Passenger_Satisfaction-SQL_Project/)
 *SQL Project*
 
-A data exploration project with survey results from airline customers.  Using SQL, I answered a variety of quetions about the dataset to uncover insights about customer satisfaction. 
+A data exploration project with survey results from airline customers. Using SQL, I answered a variety of quetions about the dataset to uncover insights about customer satisfaction. 
 
 ### [Pizza Place Sales](https://public.tableau.com/views/PizzaPlaceSales_16900347008620/PizzaPlaceSalesFor2015?:language=en-US&:display_count=n&:origin=viz_share_link)
 *Tableau Visualization*
 
-Built a dashboard to 
+Built a dashboard for one year of pizza sales. Shows a break down of sales and quantity by each pizza type and by month, day of week, and time of day.
 
 ## Other Projects
 
