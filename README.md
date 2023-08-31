@@ -1,6 +1,11 @@
 # John's Portfolio
 ## Data Projects
 
+### [Quarter 2 Volumes](https://jokrzesik.github.io/Quarter_2_Volumes/)
+*Excel Project*
+
+A cleaning, analysis, and dashboard project comparing growth of a company's 2nd quarter volumes to previous years and quarters.
+
 ### [Airline Passenger Satisfaction](https://jokrzesik.github.io/Airline_Passenger_Satisfaction-SQL_Project/)
 *SQL Project*
 
